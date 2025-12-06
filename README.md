@@ -23,7 +23,7 @@ A lightweight, distraction-free command-line task manager built with Python. Des
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/todo-cli.git](https://github.com/YOUR_USERNAME/todo-cli.git)
+    git clone https://github.com/saintcoder0/todo-list-cli.git .
     cd todo-cli
     ```
 
