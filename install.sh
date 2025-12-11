@@ -1,4 +1,4 @@
-#!/user/bin/env bash
+#!/usr/bin/env bash
 
 
 SCRIPT_NAME="todo.py" # The name of your python file
