@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/user/bin/env bash
 
 
-SCRIPT_NAME="main.py" # The name of your python file
+SCRIPT_NAME="todo.py" # The name of your python file
 LINK_NAME="todo"      # The command you want to type in terminal
 INSTALL_DIR="/usr/local/bin"
 
